@@ -1,3 +1,6 @@
+#Desktop full-size View :
+![logoipsum](https://user-images.githubusercontent.com/94052679/147903259-d1416de8-4269-46df-9c70-6714a11f40c8.png)
+
 # reactJS-logoipsum3D-SPA
 Modular 3D SPA with interactive butttons and cool hover effects. Converted a figma design into this beautiful modern claymorphism design. Added an additional Blog section to give it an extra mile. This website is also completely responsive for all screen sizes.
 
