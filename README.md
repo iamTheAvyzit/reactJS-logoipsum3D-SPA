@@ -1,4 +1,4 @@
-# Desktop full-size View : ✨🎃🎃✨
+# Desktop full-size View : ✨🎃 Checkout the live version 🎃✨
 ![logoipsum](https://user-images.githubusercontent.com/94052679/147903259-d1416de8-4269-46df-9c70-6714a11f40c8.png)
 
 # Fully Responsive Mobile View :
