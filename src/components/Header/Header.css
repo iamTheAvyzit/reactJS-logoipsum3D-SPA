@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 30px;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: -0.468947px;
+    color: #696871;
+    margin: 0px 30px 0px 30px;
+}
+
+.navbar .active {
+    color: #000000;
+}
+
+.header button {
+    padding: 15px 40px;
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: -0.531474px;
+    color: #FFFFFF;
+
+    background: #FF7143;
+    border-radius: 10px;
+    border: none;
+}
+
+@media screen and (max-width: 1080px) {
+    .header {
+        flex-direction: column;
+    }
+    .navbar {
+        margin: 20px;
+    }
+}

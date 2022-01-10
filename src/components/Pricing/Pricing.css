@@ -1,0 +1,130 @@
+.pricing-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background: #F8F8F8;
+    border-radius: 10px;
+
+    width: 25%;
+    padding: 30px 0px 30px 0px;
+    margin: 0% 0.5% 10% 0.5%;
+    transition: transform .2s;
+}
+
+.pricing-section > :hover,
+.container:hover > p,
+.container:hover > h4,
+.container:hover > h4 > p {
+    transform: scale(1.1);
+    background: #FF7143;
+    color: #FFFFFF;
+}
+
+.container:hover > button {
+    color: #FFFFFF;
+    background: #5454D4;
+    border: none;
+}
+
+.container p {
+    margin-bottom: 10%;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: -0.562737px;
+    color: #696871;
+}
+
+h4 {
+    display: flex;
+    margin-bottom: 10%;
+    font-size: 60px;
+    line-height: 56px;
+    text-align: center;
+    letter-spacing: -1.03448px;
+    color: #1D293F;
+}
+
+.container button {
+    background: #FFFFFF;
+    border: 1px solid #EAE9F2;
+    border-radius: 10px;
+    padding: 0.8rem 6rem;
+
+    font-size: 17px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: -0.531474px;
+    color: #5454D4;
+}
+
+.pricing-banner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+
+.pricing-banner > p {
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: -1.87579px;
+    color: #19191B;
+    width: 50%;
+}
+
+.pricing-banner button {
+    background: #F7F7FB;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: -0.500211px;
+    color: #19191B;
+    padding: 10px 40px;
+    margin-right: 1%;
+}
+
+.pricing-banner .active {
+    color: #FFFFFF;
+    background: #5454D4;
+}
+
+.pricing-banner > button:hover {
+    color: #FFFFFF;
+    background: #5454D4;
+}
+
+@media screen and (max-width: 1080px) {
+    .pricing-banner {
+        flex-direction: column;
+        width: 70%;
+        margin-left: 15%;
+    }
+
+    .pricing-banner > p {
+        font-size: 35px;
+        line-height: normal;
+        margin-bottom: 10%;
+    }
+
+    .pricing-banner button {
+        margin-bottom: 2%;
+    }
+
+    .pricing-section {
+        flex-direction: column;
+    }
+
+    .container {
+        width: 70%;
+    }
+}
