@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/reactJS-logoipsum3D-SPA/static/css/main.6751b318.chunk.css",
+    "main.js": "/reactJS-logoipsum3D-SPA/static/js/main.0a417a18.chunk.js",
+    "main.js.map": "/reactJS-logoipsum3D-SPA/static/js/main.0a417a18.chunk.js.map",
+    "runtime-main.js": "/reactJS-logoipsum3D-SPA/static/js/runtime-main.6740da4c.js",
+    "runtime-main.js.map": "/reactJS-logoipsum3D-SPA/static/js/runtime-main.6740da4c.js.map",
+    "static/js/2.2fd58a90.chunk.js": "/reactJS-logoipsum3D-SPA/static/js/2.2fd58a90.chunk.js",
+    "static/js/2.2fd58a90.chunk.js.map": "/reactJS-logoipsum3D-SPA/static/js/2.2fd58a90.chunk.js.map",
+    "index.html": "/reactJS-logoipsum3D-SPA/index.html",
+    "static/css/main.6751b318.chunk.css.map": "/reactJS-logoipsum3D-SPA/static/css/main.6751b318.chunk.css.map",
+    "static/js/2.2fd58a90.chunk.js.LICENSE.txt": "/reactJS-logoipsum3D-SPA/static/js/2.2fd58a90.chunk.js.LICENSE.txt",
+    "static/media/Calc.e2634c48.png": "/reactJS-logoipsum3D-SPA/static/media/Calc.e2634c48.png",
+    "static/media/Cam.cda86327.png": "/reactJS-logoipsum3D-SPA/static/media/Cam.cda86327.png",
+    "static/media/Girl.d5b36e00.png": "/reactJS-logoipsum3D-SPA/static/media/Girl.d5b36e00.png",
+    "static/media/Hero1.3f8fc4b1.png": "/reactJS-logoipsum3D-SPA/static/media/Hero1.3f8fc4b1.png",
+    "static/media/Hero2.795bf430.png": "/reactJS-logoipsum3D-SPA/static/media/Hero2.795bf430.png",
+    "static/media/Hero3.56436a26.png": "/reactJS-logoipsum3D-SPA/static/media/Hero3.56436a26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6740da4c.js",
+    "static/js/2.2fd58a90.chunk.js",
+    "static/css/main.6751b318.chunk.css",
+    "static/js/main.0a417a18.chunk.js"
+  ]
+}
